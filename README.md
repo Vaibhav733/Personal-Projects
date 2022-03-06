@@ -12,7 +12,7 @@ To compress the image size using K-Means Algorithm.
 | -------------- |---------------|
 | Size = 327 kb | Size = 156 kb |
 | -------------- |---------------|
-| ![alt text](Original_image.jpg) | ![alt text](Compressed_image.jpg)|
+| <img src="Original_image.jpeg" width="250"> | <img src="Compressed_image.png" width="250"> |
 
 
 
