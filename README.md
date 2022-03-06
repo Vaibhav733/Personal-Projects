@@ -10,9 +10,8 @@ To compress the image size using K-Means Algorithm.
 ## Result:
 | Original Image | Compressed Image |
 | -------------- |---------------|
-| Size = 327 kb | Size = 156 kb |
-| -------------- |---------------|
-| <img src="Original_image.jpeg" width="250"> | <img src="Compressed_image.png" width="250"> |
+| <p align="center"> Size = 327 kb | <p align="center"> Size = 156 kb |
+| <img src="Original_image.jpeg" width="450"> | <img src="Compressed_image.png" width="450"> |
 
 
 
