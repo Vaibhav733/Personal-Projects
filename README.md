@@ -1,3 +1,12 @@
-# Personal-Projects
-In this project K_means clsutering, machine learning  algorithm is used to get the lossy image compression.
+# Image Compression Using K-Means \\
+## Objective: 
+             To compress the image size using K-Means Algorithm.
+
+## Libraries Used:
+                  Numpy
+                  Matplotlib
+                  Scikit-learn
+## Result:
+          ![Screenshot](Original_image.jpeg)                                                     ![Screenshot](Compressed_image.png)            
+
  
